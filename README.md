@@ -1,4 +1,4 @@
-# 📚 Study Notes Repository
+# Study Notes Repository
 
 Welcome to my **Study Notes Repository**! This repository contains organized study materials, handwritten notes, presentations, and PDFs covering various computer science and programming subjects.
 
