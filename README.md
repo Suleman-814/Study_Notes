@@ -37,7 +37,7 @@ The repository contains:
 - `.pdf` – Notes, handwritten materials, and reference documents
 - `.pptx` – Presentation slides
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone the repository:
    ```bash
@@ -52,7 +52,7 @@ The repository contains:
 
 If you'd like to improve the notes or add useful study resources, feel free to fork the repository and submit a pull request.
 
-## 📜 License
+##  License
 
 This repository is intended for educational purposes only. All notes belong to their respective authors and are shared for learning and reference.
 
