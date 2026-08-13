@@ -41,7 +41,7 @@ The repository contains:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Suleman-814/Study_Notes.git
    ```
 
 2. Open the required PDF or PowerPoint file using any compatible viewer.
